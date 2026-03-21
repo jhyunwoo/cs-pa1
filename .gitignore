@@ -1,0 +1,8 @@
+*.o
+*.out
+*.dSYM/
+main
+result/
+.idea/
+.vscode/
+.DS_Store
